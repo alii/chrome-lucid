@@ -1,6 +1,6 @@
 :root {
   --light: #f7f7f7;
-  --dark: #1a1a1a;
+  --dark: #000000;
   --med: #808080;
 
   --foreground: var(--dark);
